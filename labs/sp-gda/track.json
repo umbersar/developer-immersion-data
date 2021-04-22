@@ -1,0 +1,19 @@
+﻿{
+  "$schema": "https://immtest-web.azurewebsites.net/schemas/0.0.3/ImmersionTrackMetadata.json",
+  "title": "Globally Distributed Application",
+  "short_title": "Globally Distributed Application",
+  "description": "Get hands-on and learn how to use Azure Cosmos DB, Logic App, Azure Function, Text Analytics, Azure Bot Services, Notification Hub API, Emotion API and Spark Cluster.",
+  "solution_area": "dataandai",
+  "category": "dfd",
+  "sort_index": 0,
+  "experience_ids": [
+    "experience://Content-Private/content/dfd/SP-GDA/gdaexpericence1",
+    "experience://Content-Private/content/dfd/SP-GDA/gdaexpericence2",
+    "experience://Content-Private/content/dfd/SP-GDA/gdaexpericence3",
+    "experience://Content-Private/content/dfd/SP-GDA/gdaexpericence4",
+    "experience://Content-Private/content/dfd/SP-GDA/gdaexpericence5",
+    "experience://Content-Private/content/dfd/SP-GDA/gdaexpericence6",
+    "experience://Content-Private/content/dfd/SP-GDA/gdaexpericence7"
+  ],
+  "permissions": ["everybody"]
+}
